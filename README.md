@@ -1,6 +1,5 @@
 Project Overview
-This project focuses on the SQL analytics of the Olist E-Commerce dataset (a major Brazilian marketplace) containing over 99k+ transactions.
-Then, I wrote 5 specific SQL queries to answer major business questions that an online company would want to know.
+This project focuses on the SQL analytics of the Olist E-Commerce dataset (a major Brazilian marketplace) containing over 99k+ transactions. Then, I wrote 5 specific SQL queries to answer major business questions that an online company would want to know.
 
 Skills I Used
 1. Database Creation: Writing T-SQL code to build empty tables and define data types.
@@ -23,3 +22,7 @@ This groups orders by their status (like delivered, shipped, or canceled) and ca
 
 5. Top 10 Highest-Spending Individual Customers
 This searches the entire database to find our top 10 customers based on their total history of purchases for future loyalty rewards.
+
+Dataset Link
+The raw data used for this project is the **Olist Brazilian E-Commerce Dataset**, which can be downloaded directly from Kaggle.
+
